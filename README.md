@@ -1,4 +1,4 @@
-### Olá 👋
+# Olá 👋
 
 <img align="right" alt="Code Music" src="https://github.com/FernandoVendramin/FernandoVendramin/blob/main/imgs/code-music.jpg" width="400" height="250" />
 
@@ -9,7 +9,7 @@ Meu nome é Fernando, sou **músico** nas horas vagas (🎸🎵), apaixonado por
 Procuro estar sempre ligado e motivado em conhecer novas tecnologias, e acompanhar as novidades das linguagens que trabalho. 
 
 ```js
-class Bio extends SoftwareDeveloper {
+class Bio {
   name     = 'Fernando Vendramin';
   title    = 'Full Stack Software Developer';
   location = 'Jundiaí, SP';
@@ -24,7 +24,7 @@ class Bio extends SoftwareDeveloper {
 ## 💻 Techbio
 
 ```js
-class Skills extends SoftwareDeveloper {
+class Skills {
   languages  = ['.Net', 'Javascript', 'TypeScript'];
   databases  = ['SQL Server', 'Oracle', 'MongoDB', 'SQLite'];
   frameworks = ['Angular', 'Blazor', 'Xamarin'];
