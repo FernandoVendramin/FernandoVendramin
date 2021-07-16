@@ -1,6 +1,6 @@
 # Olá 👋
 
-<img align="right" alt="Code Music" src="https://github.com/FernandoVendramin/FernandoVendramin/blob/main/imgs/code-music.jpg" width="400" height="250" />
+<img align="right" alt="Code Music" src="https://github.com/FernandoVendramin/FernandoVendramin/blob/main/imgs/code-music.jpg" width="400" height="230" />
 
 Seja bem vindo ao meu perfil GitHub 😄.
 
