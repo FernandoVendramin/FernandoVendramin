@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Fernando Vendramin GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoVendramin&show_icons=true)
+![Fernando Vendramin GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoVendramin&show_icons=true&theme=dracula)
 
 
 <!--
