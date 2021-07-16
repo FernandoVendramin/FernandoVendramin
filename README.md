@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Fernando Vendramin GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoVendramin&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoVendramin&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoVendramin&layout=compact&theme=dracula)
 
 <!--
 **FernandoVendramin/FernandoVendramin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
