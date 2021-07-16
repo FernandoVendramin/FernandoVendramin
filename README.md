@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoVendramin&show_icons=true&theme=dracula)
 
+## 📊 Github Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoVendramin&show_icons=true&theme=dracula&custom_title=Github%20Status)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoVendramin&layout=compact&theme=dracula)
 
 <!--
