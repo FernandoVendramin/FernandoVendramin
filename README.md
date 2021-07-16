@@ -20,7 +20,6 @@ class Bio extends SoftwareDeveloper {
 - 🎼 Atualmente estudando campo harmônico e aprendendo musicas do ídolo Mateus Asato;
 - 📸 Entusiasta em fotografia;
 - 🏃 Entusiasta em corridas de rua (3k, 5k, 7k, 10k...)
-- supi
 
 ## 💻 Techbio
 
