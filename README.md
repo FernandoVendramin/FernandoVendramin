@@ -1,5 +1,20 @@
-### Hi there 👋
+### Olá 👋
 
+Seja bem vindo ao meu perfil GitHub 😄.
+
+Meu nome é Fernando, sou músico nas horas vagas (🎸🎵) e apaixonado por tecnologia. 
+
+## 💻 Techbio
+
+<img align="right" alt="Code Music" src="" width="127" height="67" />
+
+```js
+class Skills extends SoftwareDeveloper {
+  languages  = ['.Net', 'Javascript', 'TypeScript'];
+  databases  = ['SQL Server', 'Oracle', 'MongoDB', 'SQLite'];
+  frameworks = ['Angular', 'Blazor', 'Xamarin'];
+}
+```
 
 ## 📊 Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoVendramin&show_icons=true&theme=dracula&custom_title=Github%20Status)
