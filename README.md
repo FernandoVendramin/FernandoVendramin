@@ -16,7 +16,7 @@ class Bio {
 }
 ```
 
-- 💻 Atualmente trabalhando em um projeto .NET Core, Blazor Wasm e Xamarin Forms;
+- 💻 Atualmente trabalhando em um projeto .NET Core, Blazor Wasm e Xamarin Forms (Dextra 💚);
 - 🎼 Atualmente estudando campo harmônico e aprendendo musicas do ídolo Mateus Asato;
 - 📸 Entusiasta em fotografia;
 - 🏃 Entusiasta em corridas de rua (3k, 5k, 7k, 10k...)
