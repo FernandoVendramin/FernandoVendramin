@@ -16,8 +16,8 @@ class Bio {
 }
 ```
 
-- 💻 Atualmente trabalhando em um projeto .NET Core, Blazor Wasm e Xamarin Forms (Dextra 💚);
-- 🎼 Atualmente estudando campo harmônico e aprendendo musicas do ídolo Mateus Asato;
+- 💻 Atualmente trabalhando na CI&T ;
+- 🎼 Atualmente estudando campo harmônico e tocando na banda DeafDogs;
 - 📸 Entusiasta em fotografia;
 - 🏃 Entusiasta em corridas de rua (3k, 5k, 7k, 10k...)
 
