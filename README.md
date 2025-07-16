@@ -16,10 +16,10 @@ class Bio {
 }
 ```
 
-- 💻 Atualmente trabalhando na CI&T ;
-- 🎼 Atualmente estudando campo harmônico e tocando na banda DeafDogs;
-- 📸 Entusiasta em fotografia;
-- 🏃 Entusiasta em corridas de rua (3k, 5k, 7k, 10k...)
+- 💻 Atualmente trabalhando como Engenheiro de Software na CI&T;
+- 🎼 Guitarrista e Violonista;
+- 📸 Entusiasta em Fotografia;
+- 🏃 Corredor amador;
 
 ## 💻 Techbio
 
